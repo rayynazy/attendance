@@ -1,0 +1,12 @@
+input,#sub{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+#sor{
+    margin-top: 15px;
+    margin-bottom: 15;
+    display: none;
+}
+#display_array{
+    font-weight: bold;
+}
